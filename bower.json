@@ -1,0 +1,16 @@
+{
+  "name": "QuestionBattle",
+  "version": "0.0.0",
+  "authors": [
+    "Paweł Sołtysiak <soltys@uznam.org>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
